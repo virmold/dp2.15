@@ -1,0 +1,13 @@
+body {
+    font-family: 'Verdana', sans-serif;
+    line-height: 1.5;
+    color: #212121;
+}
+
+.cafe {
+    color: tomato;
+}
+
+.cafe-link {
+    color: inherit; 
+}
